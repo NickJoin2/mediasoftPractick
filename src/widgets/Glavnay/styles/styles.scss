@@ -1,0 +1,46 @@
+.glavnay {
+
+  &__block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+
+    & h1 {
+      font-weight: 700;
+      line-height: 100%;
+      color: #fff;
+      text-align: center;
+      font-size: clamp(2.813rem, 2.107rem + 3.53vw, 4.688rem);
+      text-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.25);
+      margin-bottom: 45px;
+
+      @media screen and (max-width: 600px) {
+        & {
+          text-align: start;
+        }
+      }
+    }
+
+    & span {
+      font-weight: 900;
+      line-height: 100%;
+      background:  #456B92;
+      background-clip: text;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+  }
+
+}
+.gl-button {
+  display: block;
+  margin: 0 auto;
+
+  @media screen and (max-width: 600px) {
+    & {
+      margin-left: 0;
+    }
+  }
+}
+

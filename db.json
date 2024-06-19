@@ -1,0 +1,211 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "firstName": "Юлиана",
+      "middleName": "Грачева",
+      "lastName": "Алескеевна",
+      "blocked": false
+    },
+    {
+      "id": "3",
+      "firstName": "Даша",
+      "middleName": "Богомазова",
+      "lastName": "Дмитриевна",
+      "blocked": true
+    }
+  ],
+  "employees": [
+    {
+      "id": "1718563230323",
+      "firstName": "Евгений",
+      "lastName": "Евгешович",
+      "middleName": "Евгешович",
+      "blocked": false,
+      "posts": [
+        {
+          "id": 2,
+          "name": "Заведующий отделением"
+        },
+        {
+          "id": 0,
+          "name": "Студент"
+        }
+      ]
+    },
+    {
+      "id": "1718568847929",
+      "firstName": "dsa",
+      "lastName": "dfga",
+      "middleName": "dfga",
+      "blocked": false,
+      "posts": [
+        {
+          "id": 4,
+          "name": "Представитель компании"
+        }
+      ]
+    },
+    {
+      "id": "1718638540059",
+      "firstName": "uhn",
+      "lastName": "tr",
+      "middleName": "tr",
+      "blocked": false,
+      "posts": [
+        {
+          "id": 2,
+          "name": "Заведующий отделением"
+        },
+        {
+          "id": 3,
+          "name": "Классный руководитель"
+        }
+      ]
+    },
+    {
+      "id": "1718676662630",
+      "firstName": "DFV",
+      "lastName": "FD",
+      "middleName": "FD",
+      "blocked": false,
+      "posts": [
+        {
+          "id": 3,
+          "name": "Классный руководитель"
+        },
+        {
+          "id": 4,
+          "name": "Представитель компании"
+        }
+      ]
+    }
+  ],
+  "studentCursach": [
+    {
+      "id": "1",
+      "title": "Основы правильного делегирования для туристов",
+      "fio": "Иванов Иван Иванович",
+      "prepodFio": "Морозова А.А.",
+      "link": "https://www.google.ru/",
+      "level": "2"
+    },
+    {
+      "id": "2",
+      "title": "Основы правильного делегирования для туристов",
+      "fio": "Иванов Иван Иванович",
+      "prepodFio": "Морозова А.А.",
+      "link": "https://www.google.ru/",
+      "level": "2"
+    }
+  ],
+  "studentDiplom": [
+    {
+      "title": "Основы правильного дорожного движения",
+      "fio": "Дарья дмитриевна",
+      "prepodFio": "Гнеушев С.А.",
+      "link": "https://www.google.ru/",
+      "level": "3",
+      "id": "3"
+    },
+    {
+      "id": "1718670457419",
+      "title": "gdfh",
+      "fio": "dgh",
+      "prepodFio": "dhg",
+      "link": "dfgh",
+      "level": ""
+    },
+    {
+      "id": "1718671753661",
+      "title": "sfgd",
+      "fio": "sfg",
+      "prepodFio": "sfg",
+      "link": "sgf",
+      "level": "3"
+    },
+    {
+      "id": "1718733747951",
+      "title": "fd",
+      "fio": "adfs",
+      "prepodFio": "df",
+      "link": "asdf",
+      "level": "2"
+    },
+    {
+      "id": "1",
+      "title": "Основы правильного делегирования для туристов",
+      "fio": "Зендельмар",
+      "prepodFio": "Морозова А.А.",
+      "link": "https://www.google.ru/",
+      "level": "2"
+    }
+  ],
+  "specialization": [
+    {
+      "name": "Компьютерные науки",
+      "id": "1"
+    },
+    {
+      "name": "Экономикa1",
+      "id": "2"
+    },
+    {
+      "id": "5",
+      "name": "Юриспруденция"
+    },
+    {
+      "id": "1718717954890",
+      "name": "Информационные технологии"
+    }
+  ],
+  "disciplines": [
+    {
+      "id": "1",
+      "name": "Алгоритмы и структуры данных"
+    },
+    {
+      "id": "2",
+      "name": "Операционные системы"
+    },
+    {
+      "id": "5",
+      "name": "Машинное обучение"
+    },
+    {
+      "id": "1718717954890",
+      "name": "Сетевые технологии"
+    },
+    {
+      "id": "ce0d",
+      "name": "конец"
+    }
+  ],
+  "groups": [
+    {
+      "name": "21ис-1",
+      "studentsCol": "20",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "19ис-1",
+      "studentsCol": "19"
+    },
+    {
+      "id": "5",
+      "name": "18ис-1",
+      "studentsCol": "21"
+    },
+    {
+      "name": "20ом-1",
+      "studentsCol": "10",
+      "id": "3e83"
+    },
+    {
+      "id": "22a1",
+      "name": "19оат-2",
+      "studentsCol": "17"
+    }
+  ]
+}
